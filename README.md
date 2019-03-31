@@ -1,1 +1,1 @@
-# tlabs
+# Terraform Labs
